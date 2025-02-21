@@ -1,0 +1,11 @@
+com\lzu\mapper\Usermapper.class
+com\lzu\proxy\MyClass.class
+com\lzu\proxy\proxytest.class
+com\lzu\pojo\address.class
+com\lzu\config\WebAppInitializer.class
+com\lzu\pojo\website.class
+com\lzu\pojo\User.class
+com\lzu\config\SpringMybatis.class
+com\lzu\proxy\testInterface.class
+com\lzu\config\SpringMvcConfig.class
+com\lzu\controller\HomeController.class
